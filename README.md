@@ -1,8 +1,8 @@
 ### Hi there, I'am Siswo Handoko! 🤙
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Hand_Tuu)
-[![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/mr.siswohandoko)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/siswo-handoko)
-[![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/seishiroando)
+[![Twitter URL](https://img.shields.io/static/v1?color=purple&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Hand_Tuu)
+[![Instagram URL](https://img.shields.io/static/v1?color=purple&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/mr.siswohandoko)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=purple&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/siswo-handoko)
+[![Facebook URL](https://img.shields.io/static/v1?color=purple&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/seishiroando)
 
 **A Father who speak with Javascript, Typescript, Python, PHP, and Learn Go, I am a Software Enginer, Trainer and Mentor,Entrepreneur Novice, Sometimes I do Freelance, Gamer and Tech Enthusiast.**
 
