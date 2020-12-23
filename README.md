@@ -10,7 +10,7 @@ I love to sharing my knowledge and experience, dont hesitate to contact me!
 
 I write essay about Machine Learning at my Bachelor Degree for [**DETEKSI MOOD PESERTA DIDIK PADA RUANG KELAS MENGGUNAKAN METODE DEEP LEARNING**](http://repository.upi.edu/26228/)
 
-- 🎯 **I’m currently focusing on**: [Typescript and Nodejs Microservices], at PT. Sinbad Karya Perdagangan
+- 🎯 **I’m currently focusing on**: [Typescript and Nodejs Microservices Architecture], at PT. Sinbad Karya Perdagangan
 
 - 🔭 **Also, I’m currently Focus learning on**: Another Language for Backend, Frontend, and Mobile like Go, React, Flutter 😉.
 
