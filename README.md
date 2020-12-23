@@ -12,7 +12,7 @@ I write essay about Machine Learning at my Bachelor Degree for [**DETEKSI MOOD P
 
 - 🎯 **I’m currently focusing on**: [Typescript and Nodejs Microservices Architecture], at PT. Sinbad Karya Perdagangan
 
-- 🔭 **Also, I’m currently Focus learning on**: Another Language for Backend, Frontend, and Mobile like Go, React, Flutter 😉.
+- 🔭 **Also, I’m currently Focus and Interested on**: Software Architecture, Others Language like Go, React, Flutter 😉.
 
 - 💬 **Ask me about**: Typescript, Javascript, Python, PHP, OOP, Clean Architecture and DDD Paradigm, Web, Mobile, RESTful APIs, Database, Architecture, Microservices, Design Patterns, Unit Testing,  Distributed Systems.
 
