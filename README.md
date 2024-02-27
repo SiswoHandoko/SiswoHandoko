@@ -10,11 +10,11 @@ I love to sharing my knowledge and experience, dont hesitate to contact me!
 
 I write essay about Machine Learning at my Bachelor Degree for [**MOOD DETECTION ON CLASS ROOM USING DEEP LEARNING**](http://repository.upi.edu/26228/)
 
-- 🎯 **I’m currently focusing on**: [Typescript and Nodejs Microservices Architecture], at PT. Sinbad Karya Perdagangan
+- 🎯 **I’m currently focusing on**: [Typescript, Golang and Nodejs Microservices Architecture], at PT. Sinbad Karya Perdagangan
 
 - 🔭 **Also, I’m currently Focus and Interested on**: Software Architecture, Others Language like Go, React, Flutter 😉.
 
-- 💬 **Ask me about**: Typescript, Javascript, Python, PHP, OOP, Clean Architecture and DDD Paradigm, Web, Mobile, RESTful APIs, Database, Architecture, Microservices, Design Patterns, Unit Testing,  Distributed Systems.
+- 💬 **Ask me about**: Typescript, Golang, Javascript, Python, PHP, OOP, Clean Architecture and DDD Paradigm, Web, Mobile, RESTful APIs, Database, Architecture, Microservices, Design Patterns, Unit Testing,  Distributed Systems.
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
