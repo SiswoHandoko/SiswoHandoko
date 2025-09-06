@@ -4,9 +4,9 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=purple&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/siswo-handoko)
 [![Facebook URL](https://img.shields.io/static/v1?color=purple&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/seishiroando)
 
-**A Man who speak with Javascript, Typescript, Python, PHP, and Golang, I am a Software Enginer, Trainer and Mentor, Entrepreneur Novice, Sometimes I do Freelance, Gamer and Tech Enthusiast.**
+**A Man who speak with Javascript, Typescript, Python, Golang, C#, And PHP, I am a Software Enginer, Trainer and Mentor, Entrepreneur Novice, Sometimes I do Freelance, Gamer and Tech Enthusiast.**
 
-I love to sharing my knowledge and experience, dont hesitate to contact me! 
+I love to sharing my knowledge and experience, dont hesitate to contact me or visit my Portofolio Web on here [**MY PORTOFOLIO**](https://siswo-handoko.vercel.app/)
 
 I write essay about Machine Learning at my Bachelor Degree for [**MOOD DETECTION ON CLASS ROOM USING DEEP LEARNING**](http://repository.upi.edu/26228/)
 
