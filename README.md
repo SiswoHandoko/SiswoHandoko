@@ -1,32 +1,66 @@
-### Hi there, I'am Siswo Handoko! 🤙
-[![Twitter URL](https://img.shields.io/static/v1?color=purple&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Hand_Tuu)
-[![Instagram URL](https://img.shields.io/static/v1?color=purple&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/mr.siswohandoko)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=purple&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/siswo-handoko)
-[![Facebook URL](https://img.shields.io/static/v1?color=purple&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/seishiroando)
+### 👋 Hi there, I'm **Siswo Handoko**
 
-**A Man who speak with Javascript, Typescript, Python, Golang, C#, And PHP, I am a Software Enginer, Trainer and Mentor, Entrepreneur Novice, Sometimes I do Freelance, Gamer and Tech Enthusiast.**
+[![Twitter URL](https://img.shields.io/static/v1?color=6A5ACD&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Hand_Tuu)
+[![Instagram URL](https://img.shields.io/static/v1?color=6A5ACD&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=Follow)](https://www.instagram.com/mr.siswohandoko)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=6A5ACD&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/siswo-handoko)
+[![Facebook URL](https://img.shields.io/static/v1?color=6A5ACD&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/seishiroando)
 
-I love to sharing my knowledge and experience, dont hesitate to contact me or visit my Portofolio Web on here [**MY PORTOFOLIO**](https://siswo-handoko.vercel.app/)
+---
 
-I write essay about Machine Learning at my Bachelor Degree for [**MOOD DETECTION ON CLASS ROOM USING DEEP LEARNING**](http://repository.upi.edu/26228/)
+### 💡 About Me
 
-- 🎯 **I’m currently focusing on**: [Typescript, Golang and Nodejs Microservices Architecture], at PT. Sinbad Karya Perdagangan
+**Software Engineer • Trainer & Mentor • Tech Enthusiast • Gamer**
 
-- 🔭 **Also, I’m currently Focus and Interested on**: Software Architecture, Others Language like Go, React, Flutter 😉.
+I speak fluently in **JavaScript, TypeScript, Python, Go, C#, and PHP** — and sometimes even human languages 😉.  
+Currently, I work as a **Software Engineer** at **PT. Sinbad Karya Perdagangan**, focusing on **TypeScript**, **Golang**, and **Node.js Microservices Architecture**.
 
-- 💬 **Ask me about**: Typescript, Golang, Javascript, Python, PHP, OOP, Clean Architecture and DDD Paradigm, Web, Mobile, RESTful APIs, Database, Architecture, Microservices, Design Patterns, Unit Testing,  Distributed Systems.
+I’m passionate about **building scalable distributed systems**, clean design, and teaching others how to write better code.  
+When I’m not coding, you’ll probably find me gaming, tinkering with tech, or exploring new frameworks.
 
-- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
+---
 
-- ⚡ **Fun fact**: Look like Chinese 👲🏻 But I am Indonesian 👳.
+### 🚀 What I’m Up To
 
-<hr/>
+- 🎯 **Current Focus:**  
+  TypeScript • Golang • Node.js Microservices Architecture  
+- 🔭 **Exploring:**  
+  Software Architecture, Go, React, Flutter  
+- 🧠 **Interested In:**  
+  System Design • Domain-Driven Design (DDD) • Clean Architecture  
+- 💬 **Ask Me About:**  
+  Backend Systems, Databases, RESTful APIs, Design Patterns, Unit Testing, Microservices, or Distributed Systems  
+- ⚡ **Fun Fact:**  
+  I may *look* Chinese 👲🏻 — but I’m proudly Indonesian 🇮🇩.
 
-**NOTE**: *I do Code on Private Repository and Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+---
 
-<a href="https://github.com/SiswoHandoko/">
+### 🧩 Projects & Research
+
+🎓 I wrote my Bachelor’s thesis on  
+**“Mood Detection in Classrooms using Deep Learning”**  
+👉 [View Thesis](http://repository.upi.edu/26228/)
+
+🧱 Visit my portfolio to see what I’m building:  
+🌐 [**siswo-handoko.vercel.app**](https://siswo-handoko.vercel.app/)
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/SiswoHandoko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SiswoHandoko&count_private=true&show_icons=true&theme=radical&hide_border=false" />
-</a> 
-<a href="https://github.com/SiswoHandoko/">
+</a>
+<a href="https://github.com/SiswoHandoko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiswoHandoko&layout=compact&theme=radical&hide_border=false" />
 </a>
+
+---
+
+### 📝 Note
+
+> 🧠 My repositories are mostly private — so GitHub metrics may not fully reflect my skills or professional experience.  
+> I focus on building **real-world backend systems**, experimenting with **AI/ML**, and mentoring other developers.
+
+---
+
+⭐️ _“Build. Break. Learn. Repeat.”_ — **Siswo Handoko**
