@@ -12,7 +12,7 @@
 **Software Engineer • Trainer & Mentor • Tech Enthusiast • Gamer**
 
 I speak fluently in **JavaScript, TypeScript, Python, Go, C#, and PHP** — and sometimes even human languages 😉.  
-Currently, I work as a **Software Engineer** at **PT. Sinbad Karya Perdagangan**, focusing on **TypeScript**, **Golang**, and **Node.js Microservices Architecture**.
+Currently, I work as a **Software Engineer** at **METAPALS PTE. LTD.**, focusing on **C#, Python, TypeScript**, and **Backend Architecture**.
 
 I’m passionate about **building scalable distributed systems**, clean design, and teaching others how to write better code.  
 When I’m not coding, you’ll probably find me gaming, tinkering with tech, or exploring new frameworks.
@@ -22,9 +22,9 @@ When I’m not coding, you’ll probably find me gaming, tinkering with tech, or
 ### 🚀 What I’m Up To
 
 - 🎯 **Current Focus:**  
-  TypeScript • Golang • Node.js Microservices Architecture  
+  TypeScript • C# • Node.js Microservices Architecture  
 - 🔭 **Exploring:**  
-  Software Architecture, Go, React, Flutter  
+  Software Architecture, Next, React, Flutter  
 - 🧠 **Interested In:**  
   System Design • Domain-Driven Design (DDD) • Clean Architecture  
 - 💬 **Ask Me About:**  
