@@ -9,6 +9,8 @@
 
 ### 💡 About Me
 
+![](https://komarev.com/ghpvc/?username=SiswoHandoko)
+
 **Software Engineer • Trainer & Mentor • Tech Enthusiast • Gamer**
 
 I speak fluently in **JavaScript, TypeScript, Python, Go, C#, and PHP** — and sometimes even human languages 😉.  
