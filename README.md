@@ -11,9 +11,9 @@
 
 ![](https://komarev.com/ghpvc/?username=SiswoHandoko)
 
-**Software Engineer • Trainer & Mentor • Tech Enthusiast • Gamer**
+**Software Engineer • Trainer & Mentor • Tech Enthusiast • WEB3**
 
-I speak fluently in **JavaScript, TypeScript, Python, Go, C#, and PHP** — and sometimes even human languages 😉.  
+I speak fluently in **Go, C#, JavaScript, TypeScript, Python, and PHP** — and sometimes even human languages 😉.  
 Currently, I work as a **Software Engineer** at **METAPALS PTE. LTD.**, focusing on **C#, Python, TypeScript**, and **Backend Architecture**.
 
 I’m passionate about **building scalable distributed systems**, clean design, and teaching others how to write better code.  
